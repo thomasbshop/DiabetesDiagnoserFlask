@@ -1,7 +1,0 @@
- ---
- applications:
- - name: DiabetesDiagnoserFlaskAPI
-   random-route: true
-   buildpack: python_buildpack
-   command: python app.py
-   memory: 800M
